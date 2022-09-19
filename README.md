@@ -12,7 +12,7 @@
 - Sair
 
 ### 📋 Pré-requisitos para execução
-- IDE para execução de códigos c
+- IDE para execução de códigos C++
 
 ### 🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
